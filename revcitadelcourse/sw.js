@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "index.html",
-    "revision": "3ac0c6cecc09db328c950f1e5fd3a011"
+    "revision": "a5a5ebd189cc5a96093fa6d8b9b01b63"
   },
   {
     "url": "polyfills/custom-elements-es5-adapter.84b300ee818dce8b351c7cc7c100bcf7.js",
